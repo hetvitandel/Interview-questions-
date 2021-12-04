@@ -1,0 +1,22 @@
+1. difference between List and tuppel?
+2. what is mutable datatype?
+3. which are mutable and immutable datatype?
+4. which are ordered datatype?
+5. how to convert list into tuple?
+6. how many types of operator do you know in python?
+7. which operator is membership operator?
+8. what operator is % and what it does?
+9. which operator are logical operator and how it works?
+10. interpretate x in i?
+11. what is value of true?
+12. which are the conditional statement?
+13. syntex of if statement?
+14. how if else if work?
+15. which are looping statement in python?
+16. how you create function in python?
+17. what is use of functions in python?
+18. how to call function and use it anywher in program?
+19. what is recursive function?
+20. which are the builtin function in python?
+
+
